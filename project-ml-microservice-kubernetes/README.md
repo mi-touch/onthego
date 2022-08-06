@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/mi-touch/onthego/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/mi-touch/onthego/tree/main)
 
 ## Project Overview
 
