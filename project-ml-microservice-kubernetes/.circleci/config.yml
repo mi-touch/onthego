@@ -3,12 +3,13 @@
 # Check https://circleci.com/docs/2.0/language-python/ for more details
 #
 version: 2
+
 jobs:
   build:
     docker:
       # Use the same Docker base as the project
       - image: python:3.7.3-stretch
-    working_directory: ~/repo
+        working_directory: ~/repo
     steps:
       - checkout
       # Download and cache dependencies
